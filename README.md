@@ -1,6 +1,6 @@
 <h1>Hi! I'm Richelle ✌🏼</h1>
 
-<h3>I'm a full-stack developer with a focus on building clean, user centered experiences</h3>
+<h3>I'm a full-stack developer with an interest in building clean, user centered experiences</h3>
 
 [![Portfolio Badge](https://img.shields.io/badge/richelleb.dev-563D7C.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://richelleb.dev/)](https://richelleb.dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-@richellebillones-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/richellebillones/)](https://www.linkedin.com/in/richellebillones/)
@@ -38,6 +38,9 @@ const richelle = {
 <br />
 
 <h3>📈 Stats</h3>
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=rchlblns&hide=contribs,stars&count_private=true&show_icons=true&include_all_commits=yes&theme=prussian&custom_title=Github Stats" alt="Richelle's Github stats"/>
-
-<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchlblns&layout=compact&theme=prussian" alt="Richelle's Top Used Languages"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="177em" align="center" src="https://github-readme-stats.vercel.app/api?username=rchlblns&hide=contribs,stars&count_private=true&show_icons=true&include_all_commits=yes&theme=prussian&custom_title=Github Stats" alt="Richelle's Github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img height="177em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchlblns&layout=compact&theme=prussian" alt="Richelle's Top Used Languages" />
+</a>
