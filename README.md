@@ -26,7 +26,7 @@ const richelle = {
             js: ["Node", "Express"]
         },
         databases: ["Mongo", "MySql"],
-        misc: ["graphql", "git", "postman", "heroku", "netlify"]
+        misc: ["graphql", "git", "bash", "postman", "heroku", "netlify"]
     },
     architecture: ["MERN", "Jamstack", "Progressive web applications", "Single page applications"],
     currentlyLearning: ["React Native", "Data Structures and Algorithms"],
@@ -38,6 +38,6 @@ const richelle = {
 <br />
 
 <h3>📈 Stats</h3>
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=rchlblns&hide=contribs,stars&count_private=true&show_icons=true&include_all_commits=yes&theme=tokyonight&custom_title=Github Stats" alt="Richelle's Github stats"/>
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=rchlblns&hide=contribs,stars&count_private=true&show_icons=true&include_all_commits=yes&theme=tokyonight&custom_title=Github Stats" alt="Richelle's Github stats"/>
 
-<img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchlblns&layout=compact&theme=tokyonight" alt="Richelle's Top Used Languages"/>
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchlblns&layout=compact&theme=tokyonight" alt="Richelle's Top Used Languages"/>
