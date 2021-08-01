@@ -39,8 +39,8 @@ const richelle = {
 
 <h3>📈 Stats</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="177em" align="center" src="https://github-readme-stats.vercel.app/api?username=rchlblns&hide=contribs,stars&count_private=true&show_icons=true&include_all_commits=yes&theme=prussian&custom_title=Github Stats" alt="Richelle's Github stats" />
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=rchlblns&hide=contribs,stars&count_private=true&show_icons=true&include_all_commits=yes&theme=prussian&custom_title=Github Stats" alt="Richelle's Github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img height="177em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchlblns&layout=compact&theme=prussian" alt="Richelle's Top Used Languages" />
+<img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchlblns&layout=compact&theme=prussian" alt="Richelle's Top Used Languages" />
 </a>
