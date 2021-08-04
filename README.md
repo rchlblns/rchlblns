@@ -29,7 +29,7 @@ const richelle = {
         misc: ["graphql", "git", "bash", "postman", "heroku", "netlify"]
     },
     architecture: ["MERN", "Jamstack", "Progressive web applications", "Single page applications"],
-    currentlyLearning: ["React Native", "Data Structures and Algorithms"],
+    currentlyLearning: ["React Native", "Web Accessibility", "Data Structures and Algorithms"],
     funFact: "Budding plant mom, proud dog mom to a Gumball 🐶 "
 };
 ```
